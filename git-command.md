@@ -16,7 +16,7 @@
 | **远程仓库** github        |                                                              |
 | git remote add origin xxx  | 当当前分支连接到远程仓库xxx中，xxx在github中可以看到         |
 | git push -u origin master  | 把本地库的内容推送到远程，用`git push`命令<br>实际上是把当前分支`master`推送到远程 |
-|                            |                                                              |
+| git clone                  | 拉一个自己的分支，类似svn cp A a，a为自己的分支              |
 |                            |                                                              |
 |                            |                                                              |
 |                            |                                                              |
