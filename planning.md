@@ -16,7 +16,7 @@
 | ------------ | ------------------------------------------------------------ |
 | mysql        | [mysql](./mysql.md)                                          |
 | redis        | [redis](./redis.md)                                          |
-| 算法         | [剑指offer](./jianzhioffer.md)<br>[其他算法](./otders_algorithm.md) |
+| 算法         | [剑指offer](./jianzhioffer.md)<br>[其他算法](./otders_algorithm.md) <br />[leetcode](./leetcode/md) |
 | nginx        |                                                              |
 | php、php-web |                                                              |
 | 数据结构     |                                                              |
